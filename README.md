@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://four-card-feature-section-demo.netlify.app/)
+- Solution URL: (https://huddle-landing-page-with-single-section.netlify.app/)
 
 ### Links
 
@@ -52,4 +52,4 @@ Users should be able to:
 
 - Portfolio - [Brenden Henry Evans](https://brendenevans.com)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/271f444e-a9f7-45ef-90ca-a887df0a3c78/deploy-status)](https://app.netlify.com/sites/four-card-feature-section-demo/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/49c5b270-4d04-4b77-b329-cb27a52acd3c/deploy-status)](https://app.netlify.com/sites/huddle-landing-page-with-single-section/deploys)
