@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
+
+:root {
+  --violet: hsl(257, 40%, 49%);
+  --soft-magenta: hsl(300, 69%, 71%);
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--violet);
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    background: url("images/bg-desktop.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: var(--violet);
+  }
+}
+
+@media only screen and (max-width: 767.98px) {
+  main {
+    background: url("images/bg-mobile.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  #main_text {
+    text-align: left !important;
+  }
+}
+
+.btn:hover {
+  background-color: var(--soft-magenta) !important;
+  border: 1px solid var(--soft-magenta) !important;
+  color: white !important;
+}
+
+@media only screen and (min-width: 768px) {
+  #social_icons {
+    float: right;
+  }
+}
+
+/* 
+
+OLD SASS
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+$theme-colors: (
+    "violet": hsl(257, 40%, 49%),
+    "soft-magenta": hsl(300, 69%, 71%)
+);
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: hsl(257, 40%, 49%);
+
+    @media only screen and (min-width: 768px) {
+        background: url("images/bg-desktop.svg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: hsl(257, 40%, 49%);
+    }
+}
+
+#main {    
+    @media only screen and (max-width: 767.98px) {
+        background: url("images/bg-mobile.svg");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: top;
+    }
+
+    @media only screen and (min-width: 768px) {
+        #main_text {
+            text-align: left !important;
+        }
+    }
+
+    .btn {
+        &:hover {
+            background-color: hsl(300, 69%, 71%) !important;
+            border: 1px solid hsl(300, 69%, 71%) !important;
+            color: white !important;
+        }
+    }
+}
+
+#social_icons {
+    @media only screen and (min-width: 768px) {
+        float: right;
+    }
+} */
