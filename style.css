@@ -8,6 +8,27 @@
 body {
   font-family: "Poppins", sans-serif;
   background-color: var(--violet);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Header */
+header {
+  margin: 30px;
+}
+
+#logo {
+  display: block;
+  width: 100%;
+  max-width: 150px;
+  margin: 0;
+}
+
+@media only screen and (min-width: 1024px) {
+  header {
+    margin: 50px;
+  }
 }
 
 @media only screen and (min-width: 768px) {
