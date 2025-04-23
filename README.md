@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with single introductory section solution
 
-This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -31,25 +31,22 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://huddle-landing-page-with-single-section.netlify.app/)
+- Solution URL: (https://brenden-huddle-landing-page.netlify.app/)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://brenden-huddle-landing-page.netlify.app/)
+- Live Site URL: [Add live site URL here](https://brenden-huddle-landing-page.netlify.app/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- Bootstrap 5
-- Flexbox
+- CSS Flexbox
+- cSS Grid
 - Mobile-first workflow
-- Vite
 
 ## Author
 
-- Portfolio - [Brenden Henry Evans](https://brendenevans.com)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/49c5b270-4d04-4b77-b329-cb27a52acd3c/deploy-status)](https://app.netlify.com/sites/huddle-landing-page-with-single-section/deploys)
+- Portfolio - [Brenden Evans](https://brendenevans.com)
