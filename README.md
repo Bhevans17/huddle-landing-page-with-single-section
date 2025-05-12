@@ -44,7 +44,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS Flexbox
-- cSS Grid
+- CSS Grid
 - Mobile-first workflow
 
 ## Author
